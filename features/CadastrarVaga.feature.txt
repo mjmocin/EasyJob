@@ -1,0 +1,7 @@
+feature: Empresa cadastrar uma nova vaga
+
+Ao cadastrar uma vaga seria obrigatorio informar o vinculo empregaticio (CLT, PJ ou estagio)?
+Seria possivel cadastrar uma prestação de serviço como vaga de trabalho?
+3 - Caso uma vaga estivesse com o numero máximo de candidatos pré-definidos, e a empresa quisesse aumentar esse numero, ela deveria criar uma vaga semelhante ou aumentar o numero de candidatos possível na vaga?
+Empresa pode colocar numero maximo de candidatos por vaga?
+Empresa precisa informar pré-requisitos para aquela vaga?
